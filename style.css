@@ -4,7 +4,13 @@ body {
 }
 table {
     border-collapse: border-box;
+}
+.white {
     background-color: #fff;
+}
+.gray-td {
+    height: 83px;
+    background-color: #dcdce5;
 }
 td {
     box-sizing: border-box;
