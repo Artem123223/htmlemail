@@ -1,9 +1,13 @@
 body {
     background-color: #f5f5f5;
-    width: 60%;
+    width: 100%;
+    margin: 0;
 }
 table {
-    border-collapse: border-box;
+    border-collapse: collapse;
+}
+a {
+    text-decoration: none;
 }
 .white {
     background-color: #fff;
@@ -16,13 +20,19 @@ td {
     box-sizing: border-box;
 }
 .logo {
-    padding: 14px 0 0 30px;
+    padding: 13px 0 13px 30px;
     text-align: left;
+}
+.right {
+    text-align: right;
+    padding-right: 30px;
+    margin: 0;
 }
 .phone {
     padding-right: 8px;
-    text-align: right;
-    padding-bottom: 5px;
+}
+.logo-contact {
+    width: 45%;
 }
 .stylephone {
     font-size: 16px;
@@ -30,8 +40,8 @@ td {
     color: #25252c;
     font-weight: bold;
     font-family: "Arial";
-    padding-bottom: 5px;
     text-align: right;
+    padding-bottom: 5px;
 }
 .pidpis {
     font-size: 13px;
@@ -39,5 +49,179 @@ td {
     color: #9999a6;
     font-style: italic;
     font-family: "Arial";
-    text-align: right;
+    text-align: left;
+    padding-right: 30px;
+    margin: 0;
+}
+h1 {
+    font-size: 24px;
+    line-height: 24px;
+    color: #24242b;
+    font-weight: bold;
+    font-family: "Arial";
+    padding-top: 36px;
+}
+.main-text {
+    font-size: 14px;
+    line-height: 24px;
+    color: #666666;
+    font-family: "Arial";
+    padding-bottom: 21px;
+}
+.cta a {
+    border-radius: 20px;
+    background-color: #fd8300;
+    font-size: 14px;
+    line-height: 24px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "Arial";
+    padding: 13px 20px 12px 20px;
+}
+.cta {
+    padding-bottom: 37px;
+}
+.main-info {
+    padding: 0 56px 0 30px;
+}
+.gray-icon {
+    background-color: #ededf5;
+    
+}
+.gray-icon h2 {
+    font-size: 14px;
+    line-height: 18px;
+    color: #24242b;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+    padding-bottom: 9px;
+    margin: 0;
+}
+.gray-icon-three {
+    font-size: 13px;
+    line-height: 18px;
+    color: #666666;
+    font-family: "Arial";
+    text-align: center;
+    padding: 0 36px 0 36px;
+}
+.top td {
+    padding-top: 37px;
+}
+.gray-icon-three td {
+    padding-bottom: 33px;
+}
+.gray-icon-three td p {
+    margin: 0;
+    width: 100%;
+}
+.aa {
+    padding-top: 25px;
+}
+.d {
+    padding-left: 19px;
+}
+.house-td h2 {
+    margin: 0;
+}
+.house-td h2 a{
+    font-size: 16px;
+    line-height: 24px;
+    color: #1f1f56;
+    font-weight: bold;
+    font-family: "Arial";
+}
+.house-main {
+    font-size: 13px;
+    line-height: 19px;
+    color: #9999a6;
+    font-family: "Arial";
+    margin: 0;
+}
+.da {
+    padding-top: 19px;
+}
+.ne {
+    padding-left: 30px;
+}
+.box-house {
+    padding-bottom: 26px;
+}
+.left {
+  padding-left: 30px;  
+}
+.rihgt {
+    padding-right: 30px;
+}
+.bottom-info {
+    background-image: url(https://raw.githubusercontent.com/Artem123223/htmlemail/refs/heads/master/img/container.png);
+}
+.house-td {
+    vertical-align :top;
+}
+.bottom-info h2 {
+    margin: 0;
+    padding-top: 35px; 
+    text-align: center;
+    padding-bottom: 12px;
+}
+.bottom-info h2 a {
+    font-size: 24px;
+    line-height: 24px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "Arial";
+}
+.style-footer {
+    font-size: 13px;
+    line-height: 20px;
+    color: #ffffff;
+    font-family: "Arial";
+    text-align: center;
+    margin: 0;
+}
+.a-footer {
+    font-size: 14px;
+    line-height: 24px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+    border-radius: 20px;
+    background-color: #1f1f56;
+    padding: 13px 23px 12px 30px;
+}
+.outside-touch {
+    margin: 0;
+    padding-top: 16px;
+    padding-bottom: 34px;
+    text-align: center;
+}
+.icons {
+    text-align: center;
+    padding-top: 31px;
+    padding-bottom: 22px;
+}
+.background-footer {
+    background-color: #08081a;
+}
+.mb-last-text {
+    font-size: 13px;
+    line-height: 18px;
+    color: #9999a6;
+    font-family: "Arial";
+    text-align: center;
+    margin: 0;
+    padding-bottom: 23px;
+}
+.bottom-cta {
+    background-color: #000014;
+    text-align: center;
+}
+.bottom-cta a {
+    font-size: 11px;
+    line-height: 18px;
+    color: #fd8300;
+    font-family: "Arial";
 }
