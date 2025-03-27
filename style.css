@@ -1,6 +1,5 @@
 body {
     background-color: #f5f5f5;
-<<<<<<< HEAD
     width: 100%;
     margin: 0;
 }
@@ -9,12 +8,10 @@ table {
 }
 a {
     text-decoration: none;
-=======
     width: 60%;
 }
 table {
     border-collapse: border-box;
->>>>>>> a842a4535a5b566fa0c5567410b0f923743dd07d
 }
 .white {
     background-color: #fff;
@@ -27,7 +24,6 @@ td {
     box-sizing: border-box;
 }
 .logo {
-<<<<<<< HEAD
     padding: 13px 0 13px 30px;
     text-align: left;
 }
@@ -41,7 +37,6 @@ td {
 }
 .logo-contact {
     width: 45%;
-=======
     padding: 14px 0 0 30px;
     text-align: left;
 }
@@ -49,7 +44,6 @@ td {
     padding-right: 8px;
     text-align: right;
     padding-bottom: 5px;
->>>>>>> a842a4535a5b566fa0c5567410b0f923743dd07d
 }
 .stylephone {
     font-size: 16px;
@@ -57,13 +51,10 @@ td {
     color: #25252c;
     font-weight: bold;
     font-family: "Arial";
-<<<<<<< HEAD
     text-align: right;
     padding-bottom: 5px;
-=======
     padding-bottom: 5px;
     text-align: right;
->>>>>>> a842a4535a5b566fa0c5567410b0f923743dd07d
 }
 .pidpis {
     font-size: 13px;
@@ -71,7 +62,6 @@ td {
     color: #9999a6;
     font-style: italic;
     font-family: "Arial";
-<<<<<<< HEAD
     text-align: left;
     padding-right: 30px;
     margin: 0;
@@ -247,7 +237,5 @@ h1 {
     line-height: 18px;
     color: #fd8300;
     font-family: "Arial";
-=======
     text-align: right;
->>>>>>> a842a4535a5b566fa0c5567410b0f923743dd07d
 }
